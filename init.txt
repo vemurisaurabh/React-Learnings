@@ -1,1 +1,1 @@
-initialized the repository
+initialized the repository and switched to a new branch 'dev-1.0'
